@@ -1,3 +1,3 @@
-module.exports = {    
-    UserService:require("./user-Service"),
+module.exports = {        
+    emailService:require("./notification-service")
 };
